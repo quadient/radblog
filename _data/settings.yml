@@ -1,0 +1,34 @@
+---
+#-------------------------------
+# General Site Settings
+title: Quadient blog
+logo: logo-quadient.svg # You can add own logo.
+description: Zolan is modern minimal theme for Jekyll
+
+#-------------------------------
+# Author Settings
+author:
+  image: 01.jpg
+  say-hello: Hello, We're <strong>Quad<span color="#ff4200">i</span>ent</strong>
+  bio: Quadient is <strong>the driving</strong> force behind the world’s most meaningful customer experiences. We help organizations deliver exceptional experiences by focusing on four key solutions <a href="#">MAIL-RELATED SOLUTIONS</a>, <a href="#">Business Process Automation</a>, <a href="#">Customer Experience Management</a>, <a href="#">Parcel Locker Solutions</a>
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: Quadient # add your shortname for Disqus Comment. For example Quadient
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: # Add instagram username
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.

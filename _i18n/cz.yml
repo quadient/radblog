@@ -1,0 +1,16 @@
+global:
+  title: Quadient Blog CZ
+  language: English
+homepage:
+  latest-post: LATEST POSTS
+  follow-me: Follow Me
+  keep-reading: KEEP READING
+footer:
+  copy-right: Copyright © 2021 Quadient blog — All right Reserved. Powered by Jekyll.
+post:
+  by: By
+  share-article: Share this article
+pages:
+  home: Home
+  about: About
+  style-guide: Style guide
