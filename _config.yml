@@ -1,6 +1,6 @@
-baseurl: "/radblog"
-url: https://quadient.github.io/radblog
-domain: quadient.github.io
+baseurl: "/radblog/"
+url: "https://quadient.github.io/radblog/"
+domain: "quadient.github.io"
 
 # Build settings
 markdown: kramdown
